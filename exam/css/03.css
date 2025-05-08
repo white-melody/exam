@@ -1,0 +1,26 @@
+#page{
+    width: 99vw;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    margin: 0 auto; 
+}
+.name{
+    margin: 2rem 0 0 4rem;
+    float: left;
+}
+.log{
+    float: right;
+    margin-right: 1rem;
+}
+.menu{
+    display: flex;
+    justify-content:center;
+}
+.menu li{
+    margin: 1rem;
+}
+.clear{
+    clear: both;
+}

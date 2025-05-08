@@ -1,0 +1,14 @@
+.red{ 
+    width: 100px; 
+    height: 100px; 
+    background-color: red; 
+    margin: 10px; 
+    float: left;
+}
+.yellow { 
+    width: 100px; 
+    height: 100px; 
+    background-color: yellow; 
+    margin: 10px;
+    float: right; 
+}
